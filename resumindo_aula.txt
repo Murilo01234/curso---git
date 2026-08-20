@@ -1,6 +1,2 @@
-# curso---git
-meu projeto git
-
-Olá
 Na aula de hoje, aprendemos a história do git e do github, aprendemos a criar um codespace onde podemos ter acesso a uma área de trabalho, onde podemos jogar nossos códigos no terminal.
 Resumindo, aprendemos a criar uma conta no github, a criar um repositório e por enquanto alguns comandos do git para jogar no terminal. Esse texto vai ser usado como um exercício passado, e iremos fazer um commit para salvar e enviar esse texto salvo. aprendemos a história do git e do github
